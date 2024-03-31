@@ -1,0 +1,21 @@
+
+.task {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.task h3 {
+    margin-top: 0;
+    color: #333;
+}
+
+.task p strong {
+    color: #666;
+}
+
+.task p {
+    margin: 5px 0;
+    color: #444;
+}
